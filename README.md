@@ -10,7 +10,7 @@
 
 ### Estou aprendendo
 
-<img src="https://pt.dreamstime.com/logotipo-do-javascript-image136765881" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://trabalho-html.weebly.com/uploads/2/9/6/5/29653063/6785512.png?433" width="40" height="40"/>
+<img src="https://thumbs.dreamstime.com/b/logotipo-do-javascript-136765881.jpg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://trabalho-html.weebly.com/uploads/2/9/6/5/29653063/6785512.png?433" width="40" height="40"/>
 
 ### Contatos:
 
