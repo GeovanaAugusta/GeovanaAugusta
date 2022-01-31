@@ -10,7 +10,7 @@
 
 ### Estou aprendendo
 
-<img src="https://thumbs.dreamstime.com/b/logotipo-do-javascript-136765881.jpg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://trabalho-html.weebly.com/uploads/2/9/6/5/29653063/6785512.png?433" width="40" height="40"/>
+<img src="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo-600x375.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://trabalho-html.weebly.com/uploads/2/9/6/5/29653063/6785512.png?433" width="40" height="40"/> <img src="https://img2.gratispng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg" width="40" height="40"/>
 
 ### Contatos:
 
