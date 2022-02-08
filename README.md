@@ -2,7 +2,7 @@
 
 ## Bem vindo (a) ao meu perfil GitHub! 👋
 
-###### Sou Engenheira Ambiental e de Qualidade por formação e estou em transição de carreira para a área de tecnologia. Estudo Desenvolvimento Web Full-Stack na Trybe, a escola que te ensina a programar, a aprender e a trabalhar.
+##### Sou Engenheira Ambiental e de Qualidade por formação e estou em transição de carreira para a área de tecnologia. Estudo Desenvolvimento Web Full-Stack na Trybe, a escola que te ensina a programar, a aprender e a trabalhar.
 
 <br>
 
