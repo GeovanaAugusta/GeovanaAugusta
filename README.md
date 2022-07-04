@@ -1,8 +1,11 @@
-# Olá, me chamo Geovana! 
+# Olá, sou a Geovana Augusta! 
 
 ## Bem vindo (a) ao meu perfil GitHub! 👋
 
-##### Sou Engenheira Ambiental e de Qualidade, e estou no processo de transição de carreira para a área de tecnologia. Estudo Desenvolvimento Web Full-Stack na Trybe, a escola que te ensina a programar, a aprender e a trabalhar.
+- Engenheira Ambiental e de Qualidade em processo de transição de carreira para a área de tecnologia. 
+- Desenvolvedora Front-end Júnior.
+- Estudante de Desenvolvimento Web Full-Stack na Trybe, a escola que te ensina a programar, a aprender e a trabalhar.
+
 
 <br>
 
