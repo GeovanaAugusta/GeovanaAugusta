@@ -8,19 +8,47 @@
 - Estudante de Desenvolvimento Web Full-Stack na Trybe, a escola que te ensina a programar, a aprender e a trabalhar.
 <br>
 
-#### * Atualmente estou estudando Desenvolvimento Back-end, aprendendo: Docker, MySQL, MongoDB, NodeJS, Express, Sequelize, Typescript and Object Oriented Programming (OOP)..
+#### * Atualmente estudo Desenvolvimento Back-end, desenvolvi: Docker, MySQL, MongoDB, NodeJS, Express, Sequelize, Typescript e Object Oriented Programming (OOP).
 <br>
 
-### Onde me achar:
+### Tecnologias
 
-<div>
-<a href="https://www.linkedin.com/in/geovanaaugusta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+#### Linguagens
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 
-<br>
-<br>
+#### JS Framework/Library
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 
-###### Tecnologias
+#### CSS Framework/Library
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+#### Design
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+
+#### Backend... em andamento
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+
+#### Web Hosting
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+
+#### CI/CD
+![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+
+#### Gerenciador de pacotes
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
+
+#### Controle de versão
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,4 +67,9 @@
 <a href="https://github.com/GeovanaAugusta">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovanaAugusta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaAugusta&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+<div>
+<a href="https://www.linkedin.com/in/geovanaaugusta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
