@@ -1,18 +1,14 @@
-# Olá, sou a Geovana Augusta! 
+## Olá, sou a Geovana! 
 
-## Bem vindo (a) ao meu perfil GitHub! 👋
+### Bem vindo (a) ao meu perfil GitHub! 👋
 
 - Engenheira Ambiental e de Qualidade em processo de transição de carreira para a área de tecnologia. 
 - Estagiária de Desenvolvimento de Software na IK Solution.
 - Desenvolvedora Front-end Júnior.
 - Estudante de Desenvolvimento Web Full-Stack na Trybe, a escola que te ensina a programar, a aprender e a trabalhar.
-
 <br>
 
-### Atualmente estou aprendendo Fundamentos do Desenvolvimento Web.
-
-<img src="https://arquivo.devmedia.com.br/noticias/artigos/artigo_javascript-reduce-reduzindo-uma-colecao-em-um-unico-objeto_37981.jpg" width="45" height="45"/> <img src="https://trabalho-html.weebly.com/uploads/2/9/6/5/29653063/6785512.png?433" width="45" height="45"/> <img src="https://img2.gratispng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/> 
-
+#### * Atualmente estou estudando Desenvolvimento Back-end.
 <br>
 
 ### Onde me achar:
@@ -23,6 +19,21 @@
 
 <br>
 <br>
+
+###### Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="REDUX" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png">
+  <img align="center" alt="REDUX" height="30" width="40" src="https://w7.pngwing.com/pngs/766/445/png-transparent-application-programming-interface-computer-icons-representational-state-transfer-web-api-computer-software-others-white-text-logo-thumbnail.png">
+  <img align="center" alt="JEST" height="30" width="35" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png">
+  <img align="center" alt="RTL" height="30" width="40" src="https://external-preview.redd.it/ipDqIMGooKjcZY8gvo-SKMjV23dXdO4szBpoFFsSZQA.jpg?auto=webp&s=64fa5d043dc6b4f0dc9e3b40e0b8e221ceb7af5d">
+</div>
+
+<br><br>
 
 <div>
 <a href="https://github.com/GeovanaAugusta">
