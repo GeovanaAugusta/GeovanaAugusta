@@ -8,7 +8,7 @@
 - Estudante de Desenvolvimento Web Full-Stack na Trybe, a escola que te ensina a programar, a aprender e a trabalhar.
 </br>
 
-#### * Atualmente estudo Desenvolvimento Back-end, desenvolvi: Docker, MySQL, MongoDB, NodeJS, Express, Sequelize, Typescript e Object Oriented Programming (OOP).
+#### * Atualmente estudo Desenvolvimento Back-end, aprendendo: Docker, MySQL, MongoDB, NodeJS, Express, Sequelize, Typescript e Object Oriented Programming (OOP).
 </br>
 
 ### Tecnologias
