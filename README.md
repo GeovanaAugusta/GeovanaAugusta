@@ -3,9 +3,9 @@
 ## Bem vindo (a) ao meu perfil GitHub! 👋
 
 - Engenheira Ambiental e de Qualidade em processo de transição de carreira para a área de tecnologia. 
+- Estagiária de Desenvolvimento de Software na IK Solution.
 - Desenvolvedora Front-end Júnior.
 - Estudante de Desenvolvimento Web Full-Stack na Trybe, a escola que te ensina a programar, a aprender e a trabalhar.
-
 
 <br>
 
