@@ -15,7 +15,7 @@
 ### Onde me achar:
 
 <div>
-<a href="https://https://www.linkedin.com/in/geovana-augusta-46017a151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/geovanaaugusta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <br>
