@@ -2,7 +2,6 @@
 
 ### Bem vindo (a) ao meu perfil GitHub! 👋
 
-- Estagiária de Desenvolvimento de Software na IK Solution.
 - Desenvolvedora Front-end Júnior.
 - Estudante de Desenvolvimento Web Full-Stack na Trybe, a escola que te ensina a programar, a aprender e a trabalhar.
 </br>
