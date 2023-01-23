@@ -2,11 +2,11 @@
 
 ### Bem vindo (a) ao meu perfil GitHub! 👋
 
-- Desenvolvedora Front-end Júnior.
+- Desenvolvedora Full-Stack Júnior.
 - Estudante de Desenvolvimento Web Full-Stack na Trybe, a escola que te ensina a programar, a aprender e a trabalhar.
 </br>
 
-#### * Atualmente estudo Desenvolvimento Back-end, aprendendo: Docker, MySQL, MongoDB, NodeJS, Express, Sequelize, Typescript e OOP.
+#### * Atualmente estudo Ciência da computação, aprendendo: Python, POO, aplicação de técnicas de algoritmos e complexidade, além de estrutura de dados e resolução de problemas.
 </br>
 
 ### Tecnologias
