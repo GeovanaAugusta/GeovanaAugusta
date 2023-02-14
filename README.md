@@ -2,8 +2,7 @@
 
 ### Bem vindo (a) ao meu perfil GitHub! 👋
 
-- Desenvolvedora Full-Stack Júnior.
-- Estudante de Desenvolvimento Web Full-Stack na Trybe, a escola que te ensina a programar, a aprender e a trabalhar.
+- Engenheira e Desenvolvedora Web Full-Stack pela Trybe.
 </br>
 
 #### * Atualmente estudo Ciência da computação, aprendendo: Python, POO, aplicação de técnicas de algoritmos e complexidade, além de estrutura de dados e resolução de problemas.
