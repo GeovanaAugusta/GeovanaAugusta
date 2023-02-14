@@ -4,8 +4,6 @@
 
 - Engenheira e Desenvolvedora Web Full-Stack pela Trybe.
 </br>
-
-#### * Atualmente estudo Ciência da computação, aprendendo: Python, POO, aplicação de técnicas de algoritmos e complexidade, além de estrutura de dados e resolução de problemas.
 </br>
 
 ### Tecnologias
