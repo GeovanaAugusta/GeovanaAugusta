@@ -4,7 +4,7 @@
 
 - Engenheira e Desenvolvedora Web Full-Stack pela Trybe.
 
-### Tecnologias
+### Ferramentas e ecnologias
 
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
