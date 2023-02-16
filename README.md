@@ -2,7 +2,7 @@
 
 ### Bem vindo (a) ao meu perfil GitHub! 👋
 
-- Engenheira e Desenvolvedora Web Full-Stack pela Trybe.
+- Engenheira e Desenvolvedora Web Full-Stack.
 - Pós-graduanda em Projetos de Aplicativos Móveis Multiplataforma.
 
 ### Ferramentas e ecnologias
