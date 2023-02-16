@@ -31,8 +31,6 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="ANGULAR" height="30" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png"/>
 </div>
-</br></br>
-
 
 ### Contatos
 
@@ -41,7 +39,7 @@
 <div>
 <a href="https://www.linkedin.com/in/geovanaaugusta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+</br>
 
 <div>
 <a href="https://github.com/GeovanaAugusta">
