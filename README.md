@@ -1,6 +1,6 @@
 ## Olá, sou a Geovana! 
 
-### Bem vindo (a) ao meu perfil GitHub! 👋
+### Bem vindo(a) ao meu perfil GitHub! 👋
 
 - Engenheira e Desenvolvedora Web Full-Stack.
 - Pós-graduanda em Projetos de Aplicativos Móveis Multiplataforma.
