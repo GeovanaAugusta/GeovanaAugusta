@@ -33,16 +33,21 @@
 </div>
 </br></br>
 
+
+### Contatos
+
+- Para entrar em contato comigo, envie um e-mail para <geovanaag@hotmail.com>.
+
+<div>
+<a href="https://www.linkedin.com/in/geovanaaugusta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
 <div>
 <a href="https://github.com/GeovanaAugusta">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovanaAugusta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaAugusta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </br>
-
-<div>
-<a href="https://www.linkedin.com/in/geovanaaugusta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovanaaugusta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile viewrs" /> </p>
