@@ -2,8 +2,8 @@
 
 ### Bem vindo(a) ao meu perfil GitHub! 👋
 
-- Engenheira e Desenvolvedora Web Full-Stack.
-- Pós-graduanda em Projetos de Aplicativos Móveis Multiplataforma.
+- Engenheira e Desenvolvedora Web Full-Stack, Pós-graduada em Projetos de Aplicativos Móveis Multiplataforma.
+- Pós-graduanda em Engenharia de Software.
 
 ### Ferramentas e tecnologias
 
